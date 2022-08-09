@@ -10,22 +10,19 @@ ____
 ![preview](screenshots/BRS.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
-* **Latest release**: [*BRS.jwpub*](https://filen.io/d/ce73ff03-3bcf-4f3f-9e01-3933674c7a29#!XGPbbCTaU4g5509NRzhir6M8B4lCTKWL)
-* **Version**: [1.0](CHANGELOG.md/#brsjwpub---10---2022-08-09)
-* **Released**: 2022-08-09
+* **Latest release**: [*BRS_1.0.jwpub*](https://filen.io/d/ce73ff03-3bcf-4f3f-9e01-3933674c7a29#!XGPbbCTaU4g5509NRzhir6M8B4lCTKWL)
+* **Released**: [2022-08-09](CHANGELOG.md/#brsjwpub---10---2022-08-09)
 
 ### Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
 
 * **Description**: Hebrew and Greek dictionaries
 * **Latest release**: n/a
-* **Version**: n/a
 * **Released**: n/a
 
 ### Vine's *Expository Dictionary of New Testament Words*
 
 * **Description**: Another Greek dictionary with links to *Strong's* numbers/definitions
 * **Latest release**: n/a
-* **Version**: n/a
 * **Released**: n/a
 ____
 ## Feedback
