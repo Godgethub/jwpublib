@@ -7,7 +7,7 @@ These archives are a collection of reference works that are in the public domain
 ____
 ### Bible Reading Schedules
 
-![preview](BRS/BRS.gif)
+![preview](screenshots/BRS.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: [*BRS.jwpub*](https://filen.io/d/ce73ff03-3bcf-4f3f-9e01-3933674c7a29#!XGPbbCTaU4g5509NRzhir6M8B4lCTKWL)
