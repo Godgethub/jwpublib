@@ -23,7 +23,7 @@ ____
 
 ### Vine's *Expository Dictionary of New Testament Words*
 
-* **Description**: Another Greek dictionary with links to *Strong's* definitions
+* **Description**: Another Greek dictionary with links to *Strong's* numbers/definitions
 * **Latest release**: n/a
 * **Version**: n/a
 * **Released**: n/a
