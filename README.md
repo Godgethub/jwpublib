@@ -12,12 +12,16 @@ ____
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: [*BRS_1.0.jwpub*](https://filen.io/d/ce73ff03-3bcf-4f3f-9e01-3933674c7a29#!XGPbbCTaU4g5509NRzhir6M8B4lCTKWL)
 * **Released**: [2022-08-09](CHANGELOG.md/#brsjwpub---10---2022-08-09)
+* **Note**: I would like to add 2- and 4-year *chronological* schedules, if any one has the breakdown
 
 ### Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
 
+![preview](screenshots/Str.gif)
+
 * **Description**: Hebrew and Greek dictionaries
-* **Latest release**: n/a
-* **Released**: n/a
+* **Latest release**: [*Str_1.0.jwpub*](https://filen.io/d/b96607a9-1090-4df6-8496-10f2a5280951#!L3qDHHfuk9J3TcYWgN2M3e0P46mucJaq)
+* **Released**: [2022-08-09](CHANGELOG.md/#strjwpub---10---2022-08-09)
+* **Note**: the archive is not searchable (yet) 
 
 ### Vine's *Expository Dictionary of New Testament Words*
 
