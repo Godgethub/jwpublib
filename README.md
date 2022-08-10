@@ -2,7 +2,11 @@
 
 This is a collection of *.jwpub* archives that can be added to the **JW Library** app[^1] by simply dropping them into the *Library* section (MS Windows version), or clicking - to launch - (on mobile devices).
 
-These archives are a collection of reference works that are in the public domain, adapted for use with JW Library. 
+These archives are a collection of reference works that are in the public domain, adapted for use with JW Library.
+
+## Before you ask...
+
+If you are looking for the **production code/methods**, that *cannot* be shared. If you want to roll your own, what you need is "out there", but I won't point you at it either. Thanks for understanding and for not insisting.
 
 ____
 ### Bible Reading Schedules
