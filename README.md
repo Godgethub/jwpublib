@@ -6,7 +6,7 @@ These archives are a collection of reference works that are in the public domain
 
 ## Before you ask...
 
-If you are looking for the **production code/methods**, that *cannot* be shared. If you want to roll your own, what you need is "out there", but I won't point you at it either. Thanks for understanding and for not insisting.
+If you are looking for the **production code/methods**, that *cannot* be shared. If you want to roll your own, what you need is "out there", but I won't point you at it either. The same goes for the source material. Thanks for understanding and for not insisting.
 
 ____
 ### Bible Reading Schedules
