@@ -1,6 +1,6 @@
 # JWPubLib
 
-This is a collection of *.jwpub* archives that can be added to the **JW Library** app[^1] by simply dropping them into the *Library* section (MS Windows version), or clicking - to launch - (on mobile devices).
+This is a collection of *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" of the one you want and tapping/double-clicking the downloaded file. It will appear in the "Guidelines" category (Library/DOWNLOADED).
 
 These archives are a collection of reference works that are in the public domain, adapted for use with JW Library.
 
