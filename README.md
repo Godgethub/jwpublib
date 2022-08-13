@@ -14,7 +14,7 @@ ____
 ![preview](screenshots/BRS.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
-* **Latest release**: [*BRS_1.0.jwpub*](https://filen.io/d/ce73ff03-3bcf-4f3f-9e01-3933674c7a29#!XGPbbCTaU4g5509NRzhir6M8B4lCTKWL)
+* **Latest release**: [*BRS_1.0.jwpub*](https://filen.io/d/51255583-3ade-4224-be05-69aa21167da4#!M4cBHB1gutJQ8crmPoZLQb4E6MEJf3uf)
 * **Released**: [2022-08-09](CHANGELOG.md/#brsjwpub---10---2022-08-09)
 * **Note**: I would like to add 2- and 4-year *chronological* schedules, if any one has the breakdown
 
