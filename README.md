@@ -22,9 +22,9 @@ ____
 
 ![preview](screenshots/Str.gif)
 
-* **Description**: Hebrew and Greek dictionaries
-* **Latest release**: [*Str_1.0.jwpub*](https://filen.io/d/b96607a9-1090-4df6-8496-10f2a5280951#!L3qDHHfuk9J3TcYWgN2M3e0P46mucJaq)
-* **Released**: [2022-08-09](CHANGELOG.md/#strjwpub---10---2022-08-09)
+* **Description**: Hebrew and Greek dictionaries + concordance
+* **Latest release**: [*Str_1.1.jwpub*](https://filen.io/d/6c122873-beee-41cc-9274-c235fa3a6205#!daoLaIODOMwU91daN6XgIlgsOvxgNQQI)
+* **Released**: [2022-08-22](CHANGELOG.md/#strjwpub---11---2022-08-22)
 * **Note**: the archive is not searchable (yet) 
 
 ### Vine's *Expository Dictionary of New Testament Words*
