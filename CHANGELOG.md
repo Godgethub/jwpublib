@@ -2,6 +2,8 @@
 
 ## UNRELEASED
 
+- source formatting corrections (Str)
+
 ____
 ## *Str.jwpub* - 1.1 - 2022-08-22
 
