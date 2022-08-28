@@ -29,7 +29,7 @@ ____
 
 ### Vine's *Expository Dictionary of New Testament Words*
 
-* **Description**: More extensive Greek dictionary with links to *Strong's* numbers/definitions
+* **Description**: More extensive Greek dictionary
 * **Latest release**: [*VED_1.0.jwpub*](https://filen.io/d/3c26cccf-5caa-40d5-a1e0-f2a6dd93eca4#!ar7ZbBJT3pQHM6EGGA5S19xCWvesSFuF)
 * **Released**: [2022-08-22](CHANGELOG.md/#vedjwpub---10---2022-08-28)
 * **Note**: needs "polishing"
