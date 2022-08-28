@@ -7,7 +7,7 @@
 ____
 ## *VED.jwpub* - 1.0 - 2022-08-28
 
--initial release
+- initial release
 
 ## *Str.jwpub* - 1.1 - 2022-08-22
 
