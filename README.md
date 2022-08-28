@@ -18,6 +18,7 @@ ____
 * **Released**: [2022-08-09](CHANGELOG.md/#brsjwpub---10---2022-08-09)
 * **Note**: I would like to add 2- and 4-year *chronological* schedules, if any one has the breakdown
 
+
 ### Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
 
 ![preview](screenshots/Str.gif)
@@ -26,6 +27,7 @@ ____
 * **Latest release**: [*Str_1.1.jwpub*](https://filen.io/d/6c122873-beee-41cc-9274-c235fa3a6205#!daoLaIODOMwU91daN6XgIlgsOvxgNQQI)
 * **Released**: [2022-08-22](CHANGELOG.md/#strjwpub---11---2022-08-22)
 * **Note**: the archive is not searchable (yet) 
+
 
 ### Vine's *Expository Dictionary of New Testament Words*
 
