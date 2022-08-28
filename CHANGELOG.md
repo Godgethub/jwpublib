@@ -5,6 +5,10 @@
 - source formatting corrections (Str)
 
 ____
+## *VED.jwpub* - 1.0 - 2022-08-28
+
+-initial release
+
 ## *Str.jwpub* - 1.1 - 2022-08-22
 
 - **added concordance** in side pane
