@@ -29,10 +29,12 @@ ____
 
 ### Vine's *Expository Dictionary of New Testament Words*
 
+![preview](screenshots/VED.gif)
+
 * **Description**: More extensive Greek dictionary
-* **Latest release**: [*VED_1.0.jwpub*](https://filen.io/d/3c26cccf-5caa-40d5-a1e0-f2a6dd93eca4#!ar7ZbBJT3pQHM6EGGA5S19xCWvesSFuF)
-* **Released**: [2022-08-22](CHANGELOG.md/#vedjwpub---10---2022-08-28)
-* **Note**: needs "polishing"
+* **Latest release**: [*VED_1.0.jwpub*](https://filen.io/d/a320d689-1dd0-4c21-9f86-99cc7ca5b67e#!ssQZeSgIQ2pAeTLc1U57EwbYztIQqUa5)
+* **Released**: [2022-10-23](CHANGELOG.md/#vedjwpub---11---2022-10-23)
+* **Note**: the archive is not searchable (yet)
 ____
 ## Feedback
 
