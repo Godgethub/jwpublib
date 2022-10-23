@@ -5,7 +5,7 @@
 - source formatting corrections (Str)
 - reformat source (VED)
 - VED layout more like original
-- cross-linking to Str in VED
+- cross-linking to Str in VED 
 
 ____
 ## *VED.jwpub* - 1.0 - 2022-08-28
