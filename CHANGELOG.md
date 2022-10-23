@@ -3,11 +3,14 @@
 ## UNRELEASED
 
 - source formatting corrections (Str)
-- reformat source (VED)
-- VED layout more like original
-- cross-linking to Str in VED 
 
 ____
+## *VED.jwpub* - 1.1 - 2022-10-23
+
+- reformatted source
+- made layout more like original
+- added cross-linking to Strong's 
+
 ## *VED.jwpub* - 1.0 - 2022-08-28
 
 - initial release
