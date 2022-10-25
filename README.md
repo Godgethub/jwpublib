@@ -34,7 +34,7 @@ ____
 * **Description**: More extensive Greek dictionary
 * **Latest release**: [*VED_1.0.jwpub*](https://filen.io/d/a320d689-1dd0-4c21-9f86-99cc7ca5b67e#!ssQZeSgIQ2pAeTLc1U57EwbYztIQqUa5)
 * **Released**: [2022-10-23](CHANGELOG.md/#vedjwpub---11---2022-10-23)
-* **Note**: the archive is not searchable (yet)
+* **Note**: some entries are missing
 ____
 ## Feedback
 
