@@ -3,6 +3,8 @@
 ## UNRELEASED
 
 - source formatting corrections (Str)
+- streamline internal cross-linking (VED)
+- fix missing entries (VED)
 
 ____
 ## *VED.jwpub* - 1.1 - 2022-10-23
