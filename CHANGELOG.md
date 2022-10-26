@@ -2,9 +2,13 @@
 
 ## UNRELEASED
 
-- source formatting corrections (Str)
-- streamline internal cross-linking (VED)
-- fix missing entries (VED)
+- Str
+  - source formatting corrections
+
+- VED
+  - streamline internal cross-linking
+  - fix missing entries
+  - correct layout for note entries
 
 ____
 ## *VED.jwpub* - 1.1 - 2022-10-23
