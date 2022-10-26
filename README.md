@@ -31,7 +31,7 @@ ____
 
 ![preview](screenshots/VED.gif)
 
-* **Description**: More extensive Greek dictionary
+* **Description**: More extensive Greek dictionary (with links to *Strong's*
 * **Latest release**: [*VED_1.2.jwpub*](https://filen.io/d/6a7f6e5c-574e-4b62-98cd-6c133213baba#!5yKlLZeb8hhst3H3c4lnLYhiXHz1291H)
 * **Released**: [2022-10-26](CHANGELOG.md/#vedjwpub---12---2022-10-26)
 * **Note**: the archive is not searchable (yet)
