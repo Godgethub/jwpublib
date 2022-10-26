@@ -2,15 +2,19 @@
 
 ## UNRELEASED
 
-- Str
-  - source formatting corrections
-
-- VED
-  - streamline internal cross-linking
-  - fix missing entries
-  - correct layout for note entries
 
 ____
+## *VED.jwpub* - 1.2 - 2022-10-26
+
+- streamline internal cross-linking
+- fix cross-linking to Strong's
+- fix missing entries
+- correct layout for note entries
+
+## *Str.jwpub* - 1.2 - 2022-10-26
+
+- source formatting corrections
+
 ## *VED.jwpub* - 1.1 - 2022-10-23
 
 - reformatted source
