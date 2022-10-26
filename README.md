@@ -4,12 +4,12 @@ This is a collection of *.jwpub* archives that can be added to the **JW Library*
 
 These archives are a collection of reference works that are in the public domain, adapted for use with JW Library.
 
-## Before you ask...
+### Before you ask...
 
 If you are looking for the **production code/methods**, that *cannot* be shared. If you want to roll your own, what you need is "out there", but I won't point you at it either. The same goes for the source material. Thanks for understanding and for not insisting.
 
 ____
-### Bible Reading Schedules
+## Bible Reading Schedules
 
 ![preview](screenshots/BRS.gif)
 
@@ -18,7 +18,7 @@ ____
 * **Released**: [2022-08-09](CHANGELOG.md/#brsjwpub---10---2022-08-09)
 * **Note**: I would like to add 2- and 4-year *chronological* schedules, if any one has the breakdown
 
-### Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
+## Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
 
 ![preview](screenshots/Str.gif)
 
@@ -27,7 +27,7 @@ ____
 * **Released**: [2022-10-26](CHANGELOG.md/#strjwpub---12---2022-10-26)
 * **Note**: the archive is not searchable (yet) 
 
-### Vine's *Expository Dictionary of New Testament Words*
+## Vine's *Expository Dictionary of New Testament Words*
 
 ![preview](screenshots/VED.gif)
 
