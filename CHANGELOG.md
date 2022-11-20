@@ -2,6 +2,14 @@
 
 ## UNRELEASED
 
+## *VED.jwpub*
+
+- many refinements to source (unmatched ", etc.)
+- added search functionality
+
+## *Str.jwpub*
+
+- added search functionality
 
 ____
 ## *VED.jwpub* - 1.2 - 2022-10-26
