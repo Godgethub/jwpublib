@@ -14,8 +14,8 @@ ____
 ![preview](screenshots/BRS.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
-* **Latest release**: [*BRS_1.0.jwpub*](https://filen.io/d/51255583-3ade-4224-be05-69aa21167da4#!M4cBHB1gutJQ8crmPoZLQb4E6MEJf3uf)
-* **Released**: [2022-08-09](CHANGELOG.md/#brsjwpub---10---2022-08-09)
+* **Latest release**: [*BRS_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.0)
+* **Released**: [2022-08-09](CHANGELOG.md/#brs_10---2022-08-09)
 * **Note**: I would like to add 2- and 4-year *chronological* schedules, if any one has the breakdown
 
 ## Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
