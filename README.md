@@ -23,18 +23,18 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries + concordance
-* **Latest release**: [*Str_1.2.jwpub*](https://filen.io/d/4744c91d-67f1-4ccc-b305-6d58f63dd75f#!zWnnH6HfD5YixIWgG9D9go5NXJEr7nT9)
-* **Released**: [2022-10-26](CHANGELOG.md/#strjwpub---12---2022-10-26)
-* **Note**: the archive is not searchable (yet) 
+* **Latest release**: [*Str_1.3.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.3)
+* **Released**: [2022-11-29](CHANGELOG.md/#str_13---2022-11-29)
+* **Note**: searchable 
 
 ## Vine's *Expository Dictionary of New Testament Words*
 
 ![preview](screenshots/VED.gif)
 
-* **Description**: More extensive Greek dictionary (with links to *Strong's*
-* **Latest release**: [*VED_1.2.jwpub*](https://filen.io/d/6a7f6e5c-574e-4b62-98cd-6c133213baba#!5yKlLZeb8hhst3H3c4lnLYhiXHz1291H)
-* **Released**: [2022-10-26](CHANGELOG.md/#vedjwpub---12---2022-10-26)
-* **Note**: the archive is not searchable (yet)
+* **Description**: More extensive Greek dictionary (with links to *Strong's*)
+* **Latest release**: [*VED_1.3.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.3)
+* **Released**: [2022-11-29](CHANGELOG.md/#ved_13---2022-11-29)
+* **Note**: searchable
 ____
 ## Feedback
 
