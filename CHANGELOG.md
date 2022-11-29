@@ -47,10 +47,11 @@ ____
 
 - initial release
 
-## *BRS.jwpub* - 1.0 - 2022-08-09
+## [BRS_1.0] - 2022-08-09
 
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
 [Str_1.3]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.3
 [VED_1.3]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.3
+[BRS_1.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.0
