@@ -4,14 +4,19 @@
 
 ## *VED.jwpub*
 
+## *Str.jwpub*
+
+____
+## [VED_1.3] - 2022-11-29
+
 - many refinements to source (unmatched ", etc.)
 - added search functionality
 
-## *Str.jwpub*
+## [Str_1.3] - 2022-11-29
 
+- source refinements (spurious parentheses)
 - added search functionality
 
-____
 ## *VED.jwpub* - 1.2 - 2022-10-26
 
 - streamline internal cross-linking
@@ -45,3 +50,7 @@ ____
 ## *BRS.jwpub* - 1.0 - 2022-08-09
 
 - initial release
+____
+[Unreleased]: https://github.com/erykjj/jwpublib
+[Str_1.3]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.3
+[VED_1.3]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.3
