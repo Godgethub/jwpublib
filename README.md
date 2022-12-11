@@ -7,34 +7,40 @@ These archives are a collection of reference works that are in the public domain
 ### Before you ask...
 
 If you are looking for the **production code/methods**, that *cannot* be shared. If you want to roll your own, what you need is "out there", but I won't point you at it either. The same goes for the source material. Thanks for understanding and for not insisting.
-
+____
 ____
 ## Bible Reading Schedules
+<img src="screenshots/BRS_270x270.jpg" width="100px">
 
 ![preview](screenshots/BRS.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
-* **Latest release**: [*BRS_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.0)
-* **Released**: [2022-08-09](CHANGELOG.md/#brs_10---2022-08-09)
-* **Note**: I would like to add 2- and 4-year *chronological* schedules, if any one has the breakdown
+* **Latest release**: [*BRS_1.1.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.1)
+* **Released**: [2022-12-11](CHANGELOG.md/#brs_11---2022-12-11)
+* **Note**: **IMPORTANT**: Internal label IDs for check-boxes and date fields have changed! See [CHANGELOG](CHANGELOG.md/#brs_11---2022-12-11)
 
+____
 ## Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
+<img src="screenshots/Strongs_270x270.jpg" width="100px">
 
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries + concordance
-* **Latest release**: [*Str_1.3.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.3)
-* **Released**: [2022-11-29](CHANGELOG.md/#str_13---2022-11-29)
-* **Note**: searchable 
+* **Latest release**: [*Str_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.4)
+* **Released**: [2022-12-11](CHANGELOG.md/#str_14---2022-12-11)
+* **Note**: Searchable 
 
+____
 ## Vine's *Expository Dictionary of New Testament Words*
+<img src="screenshots/Vines_270x270.jpg" width="100px">
 
 ![preview](screenshots/VED.gif)
 
 * **Description**: More extensive Greek dictionary (with links to *Strong's*)
-* **Latest release**: [*VED_1.3.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.3)
-* **Released**: [2022-11-29](CHANGELOG.md/#ved_13---2022-11-29)
-* **Note**: searchable
+* **Latest release**: [*VED_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.4)
+* **Released**: [2022-12-11](CHANGELOG.md/#ved_14---2022-12-11)
+* **Note**: Searchable
+____
 ____
 ## Feedback
 
