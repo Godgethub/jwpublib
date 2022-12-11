@@ -4,7 +4,11 @@
 
 ## *VED.jwpub*
 
+- added cover-page tile
+
 ## *Str.jwpub*
+
+- added cover-page tile
 
 ____
 ## [VED_1.3] - 2022-11-29
