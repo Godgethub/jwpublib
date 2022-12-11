@@ -2,15 +2,29 @@
 
 ## UNRELEASED
 
-## *VED.jwpub*
+### *BRS.jwpub*
 
-- added cover-page tile
+### *Str.jwpub*
 
-## *Str.jwpub*
-
-- added cover-page tile
+### *VED.jwpub*
 
 ____
+## [BRS_1.1] - 2022-12-11
+
+- added cover-page tile
+- using abbreviated scriptures instead of full names
+- cosmetic adjustments for more compact appearance
+- **IMPORTANT**: internal label ids for check-boxes and date fields have changed!
+  - if you are quite advanced in your recording, contact me to help you tranfer your records
+
+## [Str_1.4] - 2022-12-11
+
+- added cover-page tile
+
+## [VED_1.4] - 2022-12-11
+
+- added cover-page tile
+
 ## [VED_1.3] - 2022-11-29
 
 - many refinements to source (unmatched ", etc.)
@@ -56,6 +70,9 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_1.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.1
+[Str_1.4]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.4
+[VED_1.4]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.4
 [Str_1.3]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.3
 [VED_1.3]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.3
 [BRS_1.0]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.0
