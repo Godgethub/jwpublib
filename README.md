@@ -10,7 +10,7 @@ If you are looking for the **production code/methods**, that *cannot* be shared.
 ____
 ____
 ## Bible Reading Schedules
-<img src="screenshots/BRS_270x270.jpg" width="100px">
+<img src="screenshots/BRS.jpg" width="100px">
 
 ![preview](screenshots/BRS.gif)
 
