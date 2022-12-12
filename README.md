@@ -21,7 +21,7 @@ ____
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
-<img src="screenshots/Strongs_270x270.jpg" width="100px">
+<img src="screenshots/Strongs.jpg" width="100px">
 
 ![preview](screenshots/Str.gif)
 
@@ -32,7 +32,7 @@ ____
 
 ____
 ## Vine's *Expository Dictionary of New Testament Words*
-<img src="screenshots/Vines_270x270.jpg" width="100px">
+<img src="screenshots/Vines.jpg" width="100px">
 
 ![preview](screenshots/VED.gif)
 
