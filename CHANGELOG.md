@@ -4,6 +4,8 @@
 
 ### *BRS.jwpub*
 
+- Add missing Gen. 6 to 6-month chronological schedule - [issue #3](https://github.com/erykjj/jwpublib/issues/3)
+
 ### *Str.jwpub*
 
 ### *VED.jwpub*
