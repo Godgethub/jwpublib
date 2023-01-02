@@ -4,13 +4,15 @@
 
 ### *BRS.jwpub*
 
-- Add missing Gen. 6 to 6-month chronological schedule - [issue #3](https://github.com/erykjj/jwpublib/issues/3)
-
 ### *Str.jwpub*
 
 ### *VED.jwpub*
 
 ____
+## [BRS_1.2] - 2023-01-02
+
+- added missing Genesis ch. 6 to 6-month chronological schedule - [issue #3](https://github.com/erykjj/jwpublib/issues/3)
+
 ## [BRS_1.1] - 2022-12-11
 
 - added cover-page tile
@@ -72,6 +74,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_1.2]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.2
 [BRS_1.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.1
 [Str_1.4]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.4
 [VED_1.4]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.4
