@@ -15,9 +15,9 @@ ____
 ![preview](screenshots/BRS.gif)
 
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
-* **Latest release**: [*BRS_1.1.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.1)
-* **Released**: [2022-12-11](CHANGELOG.md/#brs_11---2022-12-11)
-* **Note**: Let me know if you would like this in another major language (eg., Spanish or French). **IMPORTANT**: Internal label IDs for check-boxes and date fields have changed! See [CHANGELOG](CHANGELOG.md/#brs_11---2022-12-11)
+* **Latest release**: [*BRS_1.2.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.2)
+* **Released**: [2023-01-02](CHANGELOG.md/#brs_12---2023-01-02)
+* **Note**: Let me know if you would like this in another major language (eg., Spanish or French). **IMPORTANT**: Internal label IDs for check-boxes and date fields have changed from v1.0! See [CHANGELOG](CHANGELOG.md/#brs_11---2022-12-11)
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
