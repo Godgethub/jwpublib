@@ -13,6 +13,9 @@ ____
 
 - added missing Genesis ch. 6 to 6-month chronological schedule - [issue #3](https://github.com/erykjj/jwpublib/issues/3)
 
+- now available in **English** and **Spanish**
+  - feel free to request other tanslations; we'll see what can be done :-)
+
 ## [BRS_1.1] - 2022-12-11
 
 - added cover-page tile
