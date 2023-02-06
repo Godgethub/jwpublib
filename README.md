@@ -17,7 +17,7 @@ ____
 * **Description**: Personal project with Bible reading schedules of varying sequences and lengths
 * **Latest release**: [*BRS_1.2.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/BRS_1.2)
 * **Released**: [2023-01-02](CHANGELOG.md/#brs_12---2023-01-02)
-* **Note**: Now available in English and Spanish. Let me know if you would like this in another major language (eg., French or Italian).
+* **Note**: Now available in English, Italian and Spanish. Let me know if you would like this in another major language (eg., French or German).
 
 ____
 ## Strong's *Hebrew and Chaldee Dictionary* + Strong's *Greek Dictionary of the New Testament*
