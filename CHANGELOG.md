@@ -6,6 +6,9 @@
 
 ### *Str.jwpub*
 
+- corrected out-of-range references in source
+- "More info" link on title page
+
 ### *VED.jwpub*
 
 ____
