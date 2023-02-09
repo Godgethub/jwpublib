@@ -9,6 +9,17 @@
 ### *VED.jwpub*
 
 ____
+## [BRS_1.3] - 2023-02-09
+
+- fixed a couple of references in the source that were out-of-range
+  - 6-month chronological (day 162) had Acts 11:19-14:35, whereas ch 14 only has 28 verses
+  - 6-month chronological (day 172) had Romans 11:11-16:33, whereas ch 16 only has 27 verses
+- fixed internal linking for up-arrow
+- "More info" link on title page
+- corrected Italian title (thank you, @ferrarantonio)
+- added Portuguese version
+- **Note**: because of adjustments to facilitate the multi-language functionality, some of the internal numbering for the check-boxes has changed; so take note of your progress in case you need to re-tick some boxes
+
 ## [BRS_1.2] - 2023-01-02
 
 - added missing Genesis ch. 6 to 6-month chronological schedule - [issue #3](https://github.com/erykjj/jwpublib/issues/3)
@@ -77,6 +88,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_1.3]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.3
 [BRS_1.2]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.2
 [BRS_1.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.1
 [Str_1.4]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.4
