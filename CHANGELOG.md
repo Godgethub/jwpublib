@@ -11,6 +11,9 @@
 
 ### *VED.jwpub*
 
+- corrected many out-of-range and incorrect book references that were present in source
+- "More info" link on title page
+
 ____
 ## [BRS_1.3] - 2023-02-09
 
