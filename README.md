@@ -1,12 +1,10 @@
 # JWPubLib
 
-This is a collection of *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" of the one you want and tapping/double-clicking the downloaded file. It will appear in the "Guidelines" category (Library/DOWNLOADED).
-
-These archives are a collection of reference works that are in the public domain, adapted for use with JW Library.
+This is a collection of **Public Domain** reference works packaged as *.jwpub* archives that can be added to the **JW Library** app[^1] by simply downloading the "Latest release" and tapping/double-clicking the downloaded file. It will appear in the "Guidelines" category (Library/DOWNLOADED).
 
 ### Before you ask...
 
-If you are looking for the **production code/methods**, that *cannot* be shared. If you want to roll your own, what you need is "out there", but I won't point you at it either. The same goes for the source material. Thanks for understanding and for not insisting.
+If you are looking for the **production code/methods**, that *cannot* be shared. The same goes for the source material. Thanks for understanding and for not insisting.
 ____
 ____
 ## Bible Reading Schedules
