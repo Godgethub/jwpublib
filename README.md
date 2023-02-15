@@ -25,8 +25,8 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries + concordance
-* **Latest release**: [*Str_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.4)
-* **Released**: [2022-12-11](CHANGELOG.md/#str_14---2022-12-11)
+* **Latest release**: [*Str_1.5.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.5)
+* **Released**: [2023-02-15](CHANGELOG.md/#str_15---2023-02-15)
 * **Note**: Searchable (limited) - it appears search results are not highlighted in newer versions of the JW Library app on Windows - I'm looking into that
 
 ____
@@ -36,8 +36,8 @@ ____
 ![preview](screenshots/VED.gif)
 
 * **Description**: More extensive Greek dictionary (with links to *Strong's*)
-* **Latest release**: [*VED_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.4)
-* **Released**: [2022-12-11](CHANGELOG.md/#ved_14---2022-12-11)
+* **Latest release**: [*VED_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.5)
+* **Released**: [2023-02-15](CHANGELOG.md/#ved_15---2023-02-15)
 * **Note**: Searchable (limited) - it appears search results are not highlighted in newer versions of the JW Library app on Windows - I'm looking into that
 ____
 ____
