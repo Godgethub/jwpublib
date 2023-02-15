@@ -6,16 +6,20 @@
 
 ### *Str.jwpub*
 
+### *VED.jwpub*
+
+____
+## [Str_1.5] - 2023-02-15
+
 - (hopefully) fixed crash on iOS devices when opening links in reference pane
 - corrected out-of-range references in source
 - "More info" link on title page
 
-### *VED.jwpub*
+## [VED_1.5] - 2023-02-15
 
 - corrected many out-of-range and incorrect book references that were present in source
 - "More info" link on title page
 
-____
 ## [BRS_1.3] - 2023-02-09
 
 - fixed a couple of references in the source that were out-of-range
@@ -95,6 +99,8 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_1.5]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.5
+[VED_1.5]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.5
 [BRS_1.3]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.3
 [BRS_1.2]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.2
 [BRS_1.1]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.1
