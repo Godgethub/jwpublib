@@ -27,7 +27,7 @@ ____
 * **Description**: Hebrew and Greek dictionaries + concordance
 * **Latest release**: [*Str_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.4)
 * **Released**: [2022-12-11](CHANGELOG.md/#str_14---2022-12-11)
-* **Note**: Searchable 
+* **Note**: Searchable (limited) - it appears search results are not highlighted in newer versions of the JW Library app on Windows - I'm looking into that
 
 ____
 ## Vine's *Expository Dictionary of New Testament Words*
@@ -38,7 +38,7 @@ ____
 * **Description**: More extensive Greek dictionary (with links to *Strong's*)
 * **Latest release**: [*VED_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.4)
 * **Released**: [2022-12-11](CHANGELOG.md/#ved_14---2022-12-11)
-* **Note**: Searchable
+* **Note**: Searchable (limited) - it appears search results are not highlighted in newer versions of the JW Library app on Windows - I'm looking into that
 ____
 ____
 ## Feedback
