@@ -6,6 +6,7 @@
 
 ### *Str.jwpub*
 
+- (hopefully) fixed crash on iOS devices when opening links in reference pane
 - corrected out-of-range references in source
 - "More info" link on title page
 
