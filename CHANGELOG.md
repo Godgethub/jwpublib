@@ -6,6 +6,8 @@
 
 ### *Str.jwpub*
 
+- added cross-linking (back-references) to Vine's
+
 ### *VED.jwpub*
 
 ____
