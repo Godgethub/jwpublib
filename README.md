@@ -25,8 +25,8 @@ ____
 ![preview](screenshots/Str.gif)
 
 * **Description**: Hebrew and Greek dictionaries + concordance
-* **Latest release**: [*Str_1.5.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.5)
-* **Released**: [2023-02-15](CHANGELOG.md/#str_15---2023-02-15)
+* **Latest release**: [*Str_1.6.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.6)
+* **Released**: [2023-02-19](CHANGELOG.md/#str_16---2023-02-19)
 * **Note**: Searchable (limited) - it appears search results are not highlighted in newer versions of the JW Library app on Windows - I'm looking into that
 
 ____
