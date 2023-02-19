@@ -30,7 +30,7 @@ ____
 - fixed internal linking for up-arrow
 - "More info" link on title page
 - corrected Italian title (thank you, @ferrarantonio)
-- added French and Portuguese versions
+- added French, Polish and Portuguese versions
 - **Note**: because of adjustments to facilitate the multi-language functionality, some of the internal numbering for the check-boxes has changed; so take note of your progress in case you need to re-tick some boxes
 
 ## [BRS_1.2] - 2023-01-02
