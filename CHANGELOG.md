@@ -6,11 +6,13 @@
 
 ### *Str.jwpub*
 
-- added cross-linking (back-references) to Vine's
-
 ### *VED.jwpub*
 
 ____
+## [Str_1.6] - 2023-02-19
+
+- added cross-linking (back-references) to Vine's
+
 ## [Str_1.5] - 2023-02-15
 
 - (hopefully) fixed crash on iOS devices when opening links in reference pane
@@ -101,6 +103,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[Str_1.6]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.6
 [Str_1.5]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.5
 [VED_1.5]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.5
 [BRS_1.3]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.3
