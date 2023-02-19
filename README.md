@@ -36,7 +36,7 @@ ____
 ![preview](screenshots/VED.gif)
 
 * **Description**: More extensive Greek dictionary (with links to *Strong's*)
-* **Latest release**: [*VED_1.4.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.5)
+* **Latest release**: [*VED_1.5.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.5)
 * **Released**: [2023-02-15](CHANGELOG.md/#ved_15---2023-02-15)
 * **Note**: Searchable (limited) - it appears search results are not highlighted in newer versions of the JW Library app on Windows - I'm looking into that
 ____
