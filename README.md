@@ -24,7 +24,7 @@ ____
 
 ![preview](screenshots/Str.gif)
 
-* **Description**: Hebrew and Greek dictionaries + concordance
+* **Description**: Hebrew and Greek dictionaries + concordance (with back-links to [*Vine's*](README.md/#vines-expository-dictionary-of-new-testament-words))
 * **Latest release**: [*Str_1.6.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/Str_1.6)
 * **Released**: [2023-02-19](CHANGELOG.md/#str_16---2023-02-19)
 * **Note**: Searchable (limited) - it appears search results are not highlighted in newer versions of the JW Library app on Windows - I'm looking into that
@@ -35,7 +35,7 @@ ____
 
 ![preview](screenshots/VED.gif)
 
-* **Description**: More extensive Greek dictionary (with links to *Strong's*)
+* **Description**: More extensive Greek dictionary (with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament))
 * **Latest release**: [*VED_1.5.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.5)
 * **Released**: [2023-02-15](CHANGELOG.md/#ved_15---2023-02-15)
 * **Note**: Searchable (limited) - it appears search results are not highlighted in newer versions of the JW Library app on Windows - I'm looking into that
