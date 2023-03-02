@@ -4,6 +4,8 @@
 
 ### *BRS.jwpub*
 
+- corrected some split verses (4a, 7b, etc.), which weren't linking properly
+
 ### *Str.jwpub*
 
 ### *VED.jwpub*
