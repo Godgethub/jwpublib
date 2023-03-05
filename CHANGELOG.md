@@ -4,13 +4,15 @@
 
 ### *BRS.jwpub*
 
-- corrected some split verses (4a, 7b, etc.), which weren't linking properly
-
 ### *Str.jwpub*
 
 ### *VED.jwpub*
 
 ____
+## [BRS_1.4] - 2023-03-04
+
+- corrected some split verses (4a, 7b, etc.), which weren't linking properly
+
 ## [Str_1.6] - 2023-02-19
 
 - added cross-linking (back-references) to Vine's
@@ -105,6 +107,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[BRS_1.4]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.4
 [Str_1.6]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.6
 [Str_1.5]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.5
 [VED_1.5]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.5
