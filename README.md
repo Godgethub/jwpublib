@@ -48,4 +48,4 @@ Feel free to [get in touch](https://github.com/erykjj/jwpublib/issues) and post 
 [![RSS of releases](screenshots/rss-36.png)](https://github.com/erykjj/jwpublib/releases.atom)
 
 [^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
-[^2]: It appears search results are not highlighted in newer versions of the JW Library app on Windows - I'm looking into that.
+[^2]: It appears search results are not highlighted in newer versions of the JW Library app on Windows.
