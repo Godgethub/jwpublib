@@ -39,6 +39,16 @@ ____
 * **Latest release**: [*VED_1.5.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/VED_1.5)
 * **Released**: [2023-02-15](CHANGELOG.md/#ved_15---2023-02-15)
 * **Note**: Searchable (limited)[^2]
+
+____
+## *King James Version* with Strong's numbers
+<img src="screenshots/KJS.jpg" width="100px">
+
+* **Description**: Interlinear *King James Version* with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
+* **Latest release**: COMING SOON
+* **Released**: 
+* **Note**: 
+
 ____
 ____
 ## Feedback
