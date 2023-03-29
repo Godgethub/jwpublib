@@ -11,6 +11,12 @@
 ### *VED.jwpub*
 
 ____
+## [KJS_1.0] - 2023-03-29
+
+- initial release
+  - Strong's cross-references included in refernce pane
+  - search context needs to be fine-tuned
+
 ## [BRS_1.4] - 2023-03-04
 
 - corrected some split verses (4a, 7b, etc.), which weren't linking properly
@@ -109,6 +115,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[KJS_1.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.0
 [BRS_1.4]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.4
 [Str_1.6]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.6
 [Str_1.5]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.5
