@@ -41,13 +41,15 @@ ____
 * **Note**: Searchable (limited)[^2]
 
 ____
-## *King James Version* with Strong's numbers
+## KJV and Strong's Interlinear
 <img src="screenshots/KJS.jpg" width="100px">
 
+![preview](screenshots/KJS.gif)
+
 * **Description**: Interlinear *King James Version* with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
-* **Latest release**: COMING SOON
-* **Released**: 
-* **Note**: 
+* **Latest release**: [*KJS_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/KJS_1.0)
+* **Released**: [2023-03-29](CHANGELOG.md/#kjs_10---2023-03-29)
+* **Note**: Search context needs fine-tuning
 
 ____
 ____
@@ -58,4 +60,4 @@ Feel free to [get in touch](https://github.com/erykjj/jwpublib/issues) and post 
 [![RSS of releases](screenshots/rss-36.png)](https://github.com/erykjj/jwpublib/releases.atom)
 
 [^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
-[^2]: It appears search results are not highlighted in newer versions of the JW Library app on Windows.
+[^2]: It appears search results are not highlighted in newer versions of the JW Library app on Windows. Please report any other issues you discover.
