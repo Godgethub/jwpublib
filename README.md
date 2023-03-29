@@ -49,7 +49,7 @@ ____
 * **Description**: Interlinear *King James Version* with links to [*Strong's*](README.md/#strongs-hebrew-and-chaldee-dictionary--strongs-greek-dictionary-of-the-new-testament)
 * **Latest release**: [*KJS_1.0.jwpub*](https://github.com/erykjj/jwpublib/releases/tag/KJS_1.0)
 * **Released**: [2023-03-29](CHANGELOG.md/#kjs_10---2023-03-29)
-* **Note**: Search context needs fine-tuning
+* **Note**: Search context needs fine-tuning[^2]
 
 ____
 ____
