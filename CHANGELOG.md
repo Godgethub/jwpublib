@@ -14,7 +14,7 @@ ____
 ## [KJS_1.0] - 2023-03-29
 
 - initial release
-  - Strong's cross-references included in refernce pane
+  - Strong's cross-references included in reference pane
   - search context needs to be fine-tuned
 
 ## [BRS_1.4] - 2023-03-04
