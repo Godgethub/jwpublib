@@ -10,6 +10,9 @@
 
 ### *VED.jwpub*
 
+- more precise internal linking
+- linked scriptures in Note
+
 ____
 ## [KJS_1.0] - 2023-03-29
 
