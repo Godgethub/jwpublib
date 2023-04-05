@@ -10,10 +10,13 @@
 
 ### *VED.jwpub*
 
+____
+## [VED_1.6] - 2023-04-05
+
 - more precise internal linking
 - linked scriptures in Note
+- embedded cross-references to Strong's
 
-____
 ## [KJS_1.0] - 2023-03-29
 
 - initial release
@@ -118,6 +121,7 @@ ____
 - initial release
 ____
 [Unreleased]: https://github.com/erykjj/jwpublib
+[VED_1.6]:https://github.com/erykjj/jwpublib/releases/tag/VED_1.6
 [KJS_1.0]:https://github.com/erykjj/jwpublib/releases/tag/KJS_1.0
 [BRS_1.4]:https://github.com/erykjj/jwpublib/releases/tag/BRS_1.4
 [Str_1.6]:https://github.com/erykjj/jwpublib/releases/tag/Str_1.6
